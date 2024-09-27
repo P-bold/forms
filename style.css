@@ -1,0 +1,45 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: left;
+  }
+  
+  p {
+    text-align: left;
+  }
+  
+  fieldset {
+    border: 1px solid #ccc;
+    padding: 20px;
+
+  }
+  
+  legend {
+    font-weight: bold;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    width: 30%;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0069d9;
+  }
